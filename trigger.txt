@@ -1,3 +1,3 @@
 mariadb:lts-noble registry.cn-hangzhou.aliyuncs.com/georgehu/mariadb:lts-nobel
-mongodb/mongodb-community-server:7.0-ubuntu2204 registry.cn-hangzhou.aliyuncs.com/georgehu/mongodb/mongodb-community-server:7.0-ubuntu2204
+mongodb/mongodb-community-server:7.0-ubuntu2204 registry.cn-hangzhou.aliyuncs.com/georgehu/mongodb:7.0-ubuntu2204
 postgres:12-bullseye registry.cn-hangzhou.aliyuncs.com/georgehu/postgres:12-bullseye
