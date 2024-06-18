@@ -1,1 +1,2 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+mariadb:lts-noble registry.cn-hangzhou.aliyuncs.com/georgehu/mariadb:lts-nobel
+mongodb/mongodb-community-server:7.0-ubuntu2204 registry.cn-hangzhou.aliyuncs.com/georgehu/mongodb/mongodb-community-server:7.0-ubuntu2204
