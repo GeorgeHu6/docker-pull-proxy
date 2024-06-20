@@ -3,3 +3,4 @@ mongodb/mongodb-community-server:7.0-ubuntu2204 registry.cn-hangzhou.aliyuncs.co
 postgres:12-bullseye registry.cn-hangzhou.aliyuncs.com/georgehu/postgres:12-bullseye
 concourse/concourse:7.11.2 registry.cn-hangzhou.aliyuncs.com/georgehu/concourse:7.11.2
 sharelatex/sharelatex:5.0.5 registry.cn-hangzhou.aliyuncs.com/georgehu/sharelatex:5.0.5
+gitea/gitea:1.22.0 registry.cn-hangzhou.aliyuncs.com/georgehu/gitea:1.22.0
